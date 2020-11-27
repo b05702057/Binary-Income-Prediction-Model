@@ -10,5 +10,5 @@ Also, compare the results of the generative model and the logistic regression mo
 * Access the notebook to run the codes: https://colab.research.google.com/drive/197x5KwJ8oB6cwz-0oBMwxxtLI0f4fpD8?usp=sharing
 
 ### Run on Colab (can save your own version)
-* Run this command: git clone <https://github.com/b05702057/Machine-Learning-Classification.git>
+* Run this command: git clone <https://github.com/b05702057/Binary-Income-Prediction-Model.git>
 * Upload the ipynb. to your google drive and open it with colab
