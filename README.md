@@ -1,6 +1,6 @@
 # Binary Income Prediction
 
-### A prediction of Income done with the generative model and the logistic regression model in machine learning
+### A prediction of Income with the generative model and the logistic regression model
 
 ## Task
 Find the best feature combination by trial and error, normalize the data to speed up the training processm, and use regularizations to avoid overfiitng.
